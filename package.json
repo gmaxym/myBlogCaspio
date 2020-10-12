@@ -10,7 +10,7 @@
     "bootstrap": "^4.5.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3",
+    "react-scripts": "^2.1.8",
     "uuid": "^8.3.1"
   },
   "scripts": {
@@ -20,6 +20,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.5.5"
   },
   "eslintConfig": {
     "extends": "react-app"

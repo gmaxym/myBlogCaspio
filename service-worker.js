@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/myBlogCaspio/precache-manifest.3d103f602a6635ded324139970c8cb14.js"
+  "/myBlogCaspio/precache-manifest.a226b7651ba6da2b7c4e15655fb92deb.js"
 );
 
 workbox.clientsClaim();

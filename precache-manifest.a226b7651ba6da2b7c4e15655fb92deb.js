@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "99144ba5b700879f3121",
+    "revision": "65b285359b141ddb9ffa",
     "url": "/myBlogCaspio/static/css/main.1b5848c3.chunk.css"
   },
   {
-    "revision": "99144ba5b700879f3121",
-    "url": "/myBlogCaspio/static/js/main.5e08f254.chunk.js"
+    "revision": "65b285359b141ddb9ffa",
+    "url": "/myBlogCaspio/static/js/main.eb87d12b.chunk.js"
   },
   {
     "revision": "eef5cb6cf113b5d0e27f",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/myBlogCaspio/static/js/2.97c7e762.chunk.js"
   },
   {
-    "revision": "56cbee07d4e3ab5f3b7b8d7b998fb7f6",
+    "revision": "38081285522bce437bf94fa0c470657e",
     "url": "/myBlogCaspio/index.html"
   }
 ];
